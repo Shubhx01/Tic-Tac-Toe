@@ -20,13 +20,6 @@ The AI makes random or optimal moves based on the selected difficulty.
 Installation:
 To play the game locally, follow these steps:
 
-Clone this repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/multi-mode-tic-tac-toe.git
-Open the index.html file in your web browser to start playing.
-
 Technologies Used:
 JavaScript: Handles the game logic and AI.
 HTML: Provides the structure for the game board and UI elements.

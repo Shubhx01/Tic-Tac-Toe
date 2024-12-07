@@ -1,5 +1,5 @@
 Multi-Mode Tic-Tac-Toe Game
-A multi-mode Tic-Tac-Toe game built with JavaScript, HTML, and CSS. Play with a friend in two-player mode or challenge an AI opponent with varying difficulty levels. The game includes a scoreboard to track wins, losses, and draws.
+A multi-mode Tic-Tac-Toe game built with java language. Play with a friend in two-player mode or challenge an AI opponent with varying difficulty levels. The game includes a scoreboard to track wins, losses, and draws.
 
 Features:
 Two Player Mode: Compete with a friend on the same device.
@@ -20,10 +20,6 @@ The AI makes random or optimal moves based on the selected difficulty.
 Installation:
 To play the game locally, follow these steps:
 
-Technologies Used:
-JavaScript: Handles the game logic and AI.
-HTML: Provides the structure for the game board and UI elements.
-CSS: Styles the game layout for a clean, user-friendly experience.
 How to Contribute:
 Fork this repository.
 Create a new branch (git checkout -b feature-name).
